@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "dotenv": "^16.4.7"
+    "axios": "^1.7.9",
+    "cpsfy": "^6.2.0",
+    "dotenv": "^16.4.7",
+    "ramda": "^0.30.1"
   }
 }
